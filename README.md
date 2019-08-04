@@ -42,7 +42,7 @@ Similarly, the annotation in Scene 2 is text positioned inside the visualization
 
 Similarly, the annotation in Scene 3 is text positioned inside the visualization container meant to ask the user to reflect on what has been discovered in this narrative visualization and to consider this information when making his next vehicle purchase. The text massage is "We can not tell that Cars always emit less CO2 than Truck, But obvisously powerless vehicles can emit less CO2" When the user clicks the button to navigate back to Scene 1 or to Scene 2 the annotation for Scene 3 is disappeared.
 
-Finally, I created a Project Essay tab to present this essay to diliver the details of this visualiztion for the reader.When the user clicks the button to navigate back to Scene 1,2 or 3 the essay in Scene 3 is disappeared.
+Finally, I created a Project Essay tab to present this essay to diliver the details of this visualiztion for the reader.When the user clicks the button, it will direct to the github readme file.
 
 
 ### 6. Parameters
